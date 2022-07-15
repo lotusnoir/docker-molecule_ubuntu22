@@ -69,7 +69,7 @@ test_build:
 
 push_img_on_dockerhub:
   stage: push
-  image: docker:20-10
+  image: docker:latest
   needs: ["test_build"]
   services:
     - docker:dind
