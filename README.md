@@ -1,5 +1,5 @@
 
-# Docker Image with Ubuntu 22 base image 
+# Docker Image with Ubuntu 22 base image
 
 This repo was created in order to test ansible roles with molecule.
 
